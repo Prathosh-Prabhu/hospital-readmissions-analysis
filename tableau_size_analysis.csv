@@ -1,0 +1,5 @@
+hospital_size,avg_excess_ratio,num_hospitals,avg_star_rating,pct_penalized
+Small (<100),1.03,1091,2.865,72.577
+Medium (100-500),1.007,2205,3.179,50.795
+Large (500-1000),0.995,632,3.396,45.221
+Very Large (1000+),0.993,132,3.757,46.561

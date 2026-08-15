@@ -1,0 +1,31 @@
+Region,Condition,avg_excess_ratio
+Midwest,Heart Attack,1.0046553333333332
+Midwest,Heart Bypass,1.0143977777777777
+Midwest,COPD,1.0088005479452056
+Midwest,Heart Failure,0.9986154398563734
+Midwest,Hip/Knee,1.0870596153846153
+Midwest,Pneumonia,0.9990739776951673
+Northeast,Heart Attack,1.017954090909091
+Northeast,Heart Bypass,1.0149212121212123
+Northeast,COPD,1.0174201149425288
+Northeast,Heart Failure,1.0079810383747179
+Northeast,Hip/Knee,1.035089552238806
+Northeast,Pneumonia,1.0130226851851853
+Southeast,Heart Attack,1.0154024523160763
+Southeast,Heart Bypass,1.04790234375
+Southeast,COPD,1.0101543524416134
+Southeast,Heart Failure,1.0142795827123696
+Southeast,Hip/Knee,1.0927063492063493
+Southeast,Pneumonia,1.009102269503546
+Southwest,Heart Attack,1.0215442953020135
+Southwest,Heart Bypass,1.025509090909091
+Southwest,COPD,1.008818120805369
+Southwest,Heart Failure,1.0002158490566038
+Southwest,Hip/Knee,0.9961944444444444
+Southwest,Pneumonia,1.003957915057915
+West,Heart Attack,0.9909954999999999
+West,Heart Bypass,1.02546
+West,COPD,1.0046039215686275
+West,Heart Failure,0.9898388140161726
+West,Hip/Knee,0.9717714285714286
+West,Pneumonia,1.0057553719008265

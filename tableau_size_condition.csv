@@ -1,0 +1,23 @@
+Hospital Size,Condition,avg_excess_ratio
+Small (<100),Heart Attack,1.0475855140186916
+Small (<100),Heart Bypass,1.1122507462686566
+Small (<100),COPD,1.0179457720588236
+Small (<100),Heart Failure,1.0213144171779143
+Small (<100),Hip/Knee,1.4103666666666665
+Small (<100),Pneumonia,1.0273406779661018
+Medium (100-500),Heart Attack,1.00382893081761
+Medium (100-500),Heart Bypass,1.0098546075085324
+Medium (100-500),COPD,1.0064631256384065
+Medium (100-500),Heart Failure,1.0036521769662923
+Medium (100-500),Hip/Knee,1.1010564245810055
+Medium (100-500),Pneumonia,1.0020978128797084
+Large (500-1000),Heart Attack,0.9760164179104478
+Large (500-1000),Heart Bypass,1.0058
+Large (500-1000),COPD,1.0157357142857142
+Large (500-1000),Heart Failure,0.9929214285714286
+Large (500-1000),Hip/Knee,0.86572
+Large (500-1000),Pneumonia,1.01186921182266
+Very Large (1000+),Heart Attack,1.1792
+Very Large (1000+),Heart Failure,0.9968385321100918
+Very Large (1000+),Hip/Knee,0.7490272727272728
+Very Large (1000+),Pneumonia,1.0227617647058822
